@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on games/web stuffs
-- 📫 How to reach me ummmmmmmmmmmgsfdfkljghfklvjsdfv;lkfjdvs;lkjfds;lkvjlfd;ksjvl;sjfvlkfjsdvhnsjfklghvksjgkjhergvckgjhvagkjg
+- 📫 How to reach me h
 
 <!---
 weeblol/weeblol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
